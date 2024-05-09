@@ -21,6 +21,7 @@ Map fullDayNames = {
   ...Fa.fullDayNames,
   ...En.fullDayNames,
   ...Pt.fullDayNames,
+  ...Tn.fullDayNames,
 };
 
 Map shortDayNames = {
