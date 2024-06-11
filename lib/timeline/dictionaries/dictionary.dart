@@ -9,7 +9,8 @@ Map fullMonthNames = {
   ...En.fullMonthNames,
   ...Pt.fullMonthNames,
   ...Tn.fullMonthNames,
-  ...Af.fullMonthNames
+  ...Af.fullMonthNames,
+  ...Id.fullMonthNames,
 };
 
 Map shortMonthNames = {
@@ -18,6 +19,7 @@ Map shortMonthNames = {
   ...Pt.shortMonthNames,
   ...Tn.shortMonthNames,
   ...Af.shortMonthNames,
+  ...Id.shortMonthNames,
 };
 
 Map fullDayNames = {
@@ -26,6 +28,7 @@ Map fullDayNames = {
   ...Pt.fullDayNames,
   ...Tn.fullDayNames,
   ...Af.fullDayNames,
+  ...Id.fullDayNames,
 };
 
 Map shortDayNames = {
@@ -34,6 +37,7 @@ Map shortDayNames = {
   ...Pt.shortDayNames,
   ...Tn.shortDayNames,
   ...Af.shortDayNames,
+  ...Id.shortDayNames,
 };
 
 Map titles = {
@@ -42,6 +46,7 @@ Map titles = {
   ...Pt.titles,
   ...Tn.titles,
   ...Af.titles,
+  ...Id.titles,
 };
 
 Map directionIsRTL = {
@@ -50,6 +55,7 @@ Map directionIsRTL = {
   ...Pt.directionIsRTL,
   ...Tn.directionIsRTL,
   ...Af.directionIsRTL,
+  ...Id.directionIsRTL,
 };
 
 Map directionIsCenter = {
@@ -58,4 +64,5 @@ Map directionIsCenter = {
   ...Pt.directionIsCenter,
   ...Tn.directionIsCenter,
   ...Af.directionIsCenter,
+  ...Id.directionIsCenter,
 };
