@@ -3,6 +3,7 @@ import 'fa.dart';
 import 'pt.dart';
 import 'tn.dart';
 import 'af.dart';
+import 'id.dart';
 
 Map fullMonthNames = {
   ...Fa.fullMonthNames,
